@@ -1,5 +1,5 @@
 # JPEG-implementation
-an implementation of the jpeg compression flow
+An implementation of the jpeg compression flow
 
 It could only process grayscale raw files.
 
